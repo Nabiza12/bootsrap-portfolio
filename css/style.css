@@ -1,0 +1,24 @@
+.btn-light{
+    background: #B68C5A;
+    border-radius: 8px;
+    border-color: #B68C5A;
+}
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+.carousel-caption{
+    padding: 200px;
+}
+.img-cel{
+    width: 10%;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    
+}
+.banner-h{
+    background-image: url('../images/Rectangle\ 6.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
